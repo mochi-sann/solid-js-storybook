@@ -2,6 +2,7 @@ import type { Component } from 'solid-js';
 
 import logo from './logo.svg';
 import styles from './App.module.css';
+import MyButton from './components/MyButton';
 
 const App: Component = () => {
   return (
@@ -11,6 +12,7 @@ const App: Component = () => {
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
+        <MyButton name='なまええええええ'/>
         <a
           class={styles.link}
           href="https://github.com/solidjs/solid"
