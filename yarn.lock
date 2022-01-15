@@ -2984,7 +2984,7 @@ babel-plugin-syntax-jsx@^6.18.0:
   resolved "https://registry.yarnpkg.com/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.18.0.tgz#0af32a9a6e13ca7a3fd5069e62d7b0f58d0d8946"
   integrity sha1-CvMqmm4Tyno/1QaeYtew9Y0NiUY=
 
-babel-preset-solid@^1.3.0:
+babel-preset-solid@^1.3.0, babel-preset-solid@^1.3.2:
   version "1.3.2"
   resolved "https://registry.yarnpkg.com/babel-preset-solid/-/babel-preset-solid-1.3.2.tgz#0ed216b405aa1b7022a184cf4da57e124660e6e3"
   integrity sha512-NiWGdkWZ6a/3Sfc6JdkzeNi8HkbVLNhHuKPCBvCkZPMABP6VRBoqq/aYydZlESk6EC1PYRdZAYSItb9Is6tnJQ==
